@@ -1,0 +1,20 @@
+1.\Proqramlastirma o proqramlarin(software)yaradilma prosesidir,ona gore bunun üçün proqramçılar proqramlaşdırma dillərindən birində mənbə kodu yazır.
+2.\Proqram təminatı kompüterə necə işləməyi izah edən təlimatlar və verilənlər toplusudur. Bu, sistemin qurulduğu və əslində işi gördüyü fiziki avadanlıqdan fərqlidir.
+
+3.\1.Obyekt yönümlü dillər:
+
+C++
+C# / Java
+yaqut
+…
+
+2. İmperativ prosedur dilləri
+C
+... və s
+
+3.Funksional dillər
+Scala
+F#
+Haskell
+Sxem
+Ümumi LISP (ii)
